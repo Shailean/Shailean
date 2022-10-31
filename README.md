@@ -1,7 +1,5 @@
 ### Hi, I'm Shailean (shall-een) 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on my Web Development portfolio
 - 🌱 I’m currently learning JavaScript, Python, and Java (in a Fullstack Development bootcamp)
 - 👯 I’m looking to collaborate on UX Design and coding projects that build my skills in JavaScript
