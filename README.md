@@ -9,7 +9,7 @@ Pronounced: "shall-een"
 - 📫 How to reach me: https://www.linkedin.com/in/shaileanhardy/
 - 😄 Pronouns: she/her
 
-- ⚡ **Fun fact**: I'm currently living in Spain (in the region of Galicia) in my second year of my career break which started in September 2021. I left my job as a Financial Coach to travel around Colombia, Peru, and Mexico. 
+- ⚡ **Fun fact**: I'm currently living in Spain (in the region of Galicia) in my second year of my career break. I left my job as a Financial Coach in September 2021 and started my travels in Colombia, Peru, and Mexico. 
 
 While traveling I started learning Front End Web Development (HTML, CSS, JavaScript). I eventually attended an online bootcamp and graduated in September 2022. 
 
