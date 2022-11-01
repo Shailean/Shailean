@@ -1,4 +1,4 @@
-### Hi, I'm Shailean! 👋
+### Hi, I'm Shailean! 👋🏾
 Pronounced: "shall-een"
 
 - 🔭 I’m currently working on my Web Development portfolio
@@ -7,10 +7,8 @@ Pronounced: "shall-een"
 - 🤔 I’m always looking for help with CSS and JavaScript :)
 - 💬 Ask me about: my travels and personal finance tips (I'm an ex Financial Coach)
 - 📫 How to reach me: https://www.linkedin.com/in/shaileanhardy/
-- 😄 Pronouns: she/her
+- 🙂 Pronouns: she/her
 
 - ⚡ **Fun fact**: I'm currently living in Spain (in the region of Galicia) in the second year of my career break. I left my job as a Financial Coach in September 2021 and started my travels in Colombia, Peru, and Mexico. 
 
-While traveling I started learning Front End Web Development (HTML, CSS, JavaScript). I eventually attended an online bootcamp and graduated in September 2022. 
-
-After graduating from bootcamp, I still didn't feel like I had gained enough programming skills so I applied and received a scholarship to Udacity's Full Stack Developer bootcamp from which I am scheduled to graduate in March 2023. 
+- 🌍 While traveling I started learning Front End Web Development (HTML, CSS, JavaScript). I eventually attended an online bootcamp and graduated in September 2022. After graduating from bootcamp, I still didn't feel like I had gained enough programming skills so I applied and received a scholarship to Udacity's Full Stack Developer bootcamp from which I am scheduled to graduate in March 2023. 
