@@ -12,3 +12,16 @@ Pronounced: "shall-een"
 - ⚡ **Fun fact**: I'm currently living in Spain (in the region of Galicia) in the second year of my career break. I left my job as a Financial Coach in September 2021 and started my travels in Colombia, Peru, and Mexico. 
 
 - 🌍 While traveling I started learning Front End Web Development (HTML, CSS, JavaScript). I eventually attended an online bootcamp and graduated in September 2022. After graduating from bootcamp, I still didn't feel like I had gained enough programming skills so I applied and received a scholarship to Udacity's Full Stack Developer bootcamp from which I am scheduled to graduate in March 2023. 
+
+### :hammer_and_wrench: Languages and Tools:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Visual Studio Code" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" width="40" height="40"/>&nbsp;
+</div>
